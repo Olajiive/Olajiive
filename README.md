@@ -6,8 +6,7 @@ I'm a Finance analyst and Backend Developer. I'm passionate about sharing knowle
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact:
-- 💡 Fun fact: Alumnus AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023,  Alumnus University of Lagos [B.Sc Actuarial Science](www.Unilag.edu.ng) Class of 2025.
+- 💡 Fun fact:  Alumnus University of Lagos [B.Sc Actuarial Science](www.Unilag.edu.ng) Class of 2025, Alumnus AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Finance Analyst, Investment Analyst, Data Analyst and Business Analyst (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing muizolatunji29@gmail.com.
